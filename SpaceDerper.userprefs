@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\EnergyGunBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\StarsFGBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\AnimationFinishTimerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\BallisticAmmoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\CameraBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\ChainGunScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\CursorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\EnergyBeamScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\EnergyGunBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

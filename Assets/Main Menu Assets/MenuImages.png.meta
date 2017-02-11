@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b419bdc7ae022dc41b52f8ccce8aacf5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuImages
+    21300002: MenuImages_0
+    21300004: MenuImages_1
+    21300006: MenuImages_2
+    21300008: MenuImages_3
+    21300010: MenuImages_5
+    21300012: MenuImages_9
+    21300014: MenuImages_13
+    21300016: MenuImages_20
+    21300018: MenuImages_21
+    21300020: MenuImages_27
+    21300022: MenuImages_36
+    21300024: MenuImages_37
+    21300026: MenuImages_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuImages_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 490
+        width: 321
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 454
+        width: 390
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 644
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 651
+        width: 8
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 592
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 551
+        width: 135
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 509
+        width: 130
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 321
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 466
+        width: 111
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 429
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 351
+        width: 500
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 290
+        width: 434
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuImages_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 207
+        width: 500
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
