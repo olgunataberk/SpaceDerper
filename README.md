@@ -11,3 +11,9 @@ Left Mouse Button - Fire lasers
 Right Mouse Button - Fire missiles  
 Space - Lock camera  
 Mouse Wheel - Zoom in/out  
+
+Some screenshots:
+
+![ScreenShot](http://i.imgur.com/JtMBoTO.png)
+![ScreenShot](http://i.imgur.com/wUOPXem.png)
+![ScreenShot](http://i.imgur.com/463WzCA.png)
