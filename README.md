@@ -1,5 +1,5 @@
 Feel free to use the project however you want.  
-The code might not be tidy or easy to understand.   
+The code might not be tidy or comprehensible.   
 Graphics taken from opengameart.org, check licenses-gra.txt for more information about artists.
 
 Controls:   
